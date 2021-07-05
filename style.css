@@ -1,0 +1,24 @@
+html{
+    background-image: url(image/130484-kosmicheskoe_prostranstvo-atmosfera-atmosfera_zemli-vselennaya-astronomiya-1920x1080.jpg);
+    
+}
+h1{
+    color: rgb(233, 143, 7);
+    margin: 2cm;
+    border-radius: 0%;
+}
+h2{
+    color: rgb(233, 143, 7);
+    margin: 2cm;
+}
+p{
+    color: rgb(233, 143, 7);
+    margin: 2cm;
+}
+.mark{
+    color: rgb(233, 143, 7);
+    margin: 1.5cm;
+}
+.line{
+    margin: 1.5cm;   
+}
